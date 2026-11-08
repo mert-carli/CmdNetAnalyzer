@@ -1,0 +1,9 @@
+# Windows system & shortcut files
+desktop.ini
+Thumbs.db
+*.lnk
+
+# Editor & logs
+.vscode/
+.idea/
+*.log
